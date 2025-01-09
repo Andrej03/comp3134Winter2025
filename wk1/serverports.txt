@@ -1,0 +1,7 @@
+• What is the definition of server port?
+- Server port is the address where the server exists on the machine.
+• What is server port range?
+- Server port range is the amount of port numbers available for a servers to take.
+• How many bits does number above represent?
+- The number represents 16-bits
+• State 10 common server ports

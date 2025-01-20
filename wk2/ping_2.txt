@@ -1,0 +1,12 @@
+C:\Users\andre>ping 134.122.37.249
+
+Pinging 134.122.37.249 with 32 bytes of data:
+Reply from 134.122.37.249: bytes=32 time=30ms TTL=55
+Reply from 134.122.37.249: bytes=32 time=20ms TTL=55
+Reply from 134.122.37.249: bytes=32 time=23ms TTL=55
+Reply from 134.122.37.249: bytes=32 time=14ms TTL=55
+
+Ping statistics for 134.122.37.249:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 14ms, Maximum = 30ms, Average = 21ms
